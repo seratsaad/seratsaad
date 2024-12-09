@@ -13,8 +13,8 @@ Here are some of my recent projects, highlighting my journey across Stellar Astr
 - [**ABYSS II**: Identification of Young Stars in Optical SDSS Spectra](https://github.com/seratsaad/ABYSS-II)  
    Developed a pipeline to identify young stellar objects using SDSS optical spectra and explored their properties such as accretion activity. First author paper published in [*The Astronomical Journal*](https://iopscience.iop.org/article/10.3847/1538-3881/ad2001/pdf).
 
-- [**Veiling Measurements in BOSS Spectra**](https://github.com/seratsaad/BOSS-Veiling)  
-   Investigated accretion activity in young stars using veiling as a diagnostic. Analyzed empirical veiling data for robust measurements. First author paper submitted to *The Astronomical Journal*. Presented in multiple [conferences](https://zenodo.org/records/13007730).
+- [**Veiling Measurements in BOSS Spectra**](https://github.com/seratsaad/BOSS-Veiling)
+   Investigated accretion activity in young stars using veiling as a diagnostic. Analyzed empirical veiling data for robust measurements. First author paper submitted to [*The Astronomical Journal*](https://github.com/seratsaad/BOSS-Veiling/blob/main/veiling_preprint.pdf). Presented in multiple [conferences](https://zenodo.org/records/13007730).
 
 ---
 
