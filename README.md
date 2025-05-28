@@ -1,8 +1,8 @@
 # Hello, 👋 I'm Serat Saad!
 
-I am actively **seeking Astronomy PhD positions**.
+I am an incoming **astronomy PhD student at The Ohio State University**.
 
-I am a **senior** at **Vanderbilt University**, majoring in **Physics & Mathematics** with a minor in **Astronomy & Scientific Computing** 🌌. My journey into Astronomy began through international Olympiads, where I developed a deep love for the stars and problem-solving. Since then, my passion has driven me to publish research, present at international conferences, and lead impactful educational initiatives.
+I recently graduated from **Vanderbilt University**, majoring in **Physics & Mathematics** with minors in **Astronomy & Scientific Computing** 🌌. My journey into Astronomy began through international Olympiads, where I developed a deep love for the stars and problem-solving. Since then, my passion has driven me to publish research, present at international conferences, and lead impactful educational initiatives.
 
 ---
 
