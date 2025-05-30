@@ -2,7 +2,7 @@
 
 I am an incoming **astronomy PhD student at The Ohio State University**.
 
-I recently graduated from **Vanderbilt University**, majoring in **Physics & Mathematics** with minors in **Astronomy & Scientific Computing** 🌌. My journey into Astronomy began through international Olympiads, where I developed a deep love for the stars and problem-solving. Since then, my passion has driven me to publish research, present at international conferences, and lead impactful educational initiatives.
+I recently graduated from **Vanderbilt University**, double-majored in **Physics & Mathematics** with minors in **Astronomy & Scientific Computing** 🌌. My journey into Astronomy began through international Olympiads, where I developed a deep love for the stars and problem-solving. Since then, my passion has driven me to publish research, present at international conferences, and lead impactful educational initiatives.
 
 ---
 
